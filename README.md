@@ -28,7 +28,7 @@
 
  
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=wanghao221&theme=redical">
+ <img src="https://activity-graph.herokuapp.com/graph?username=Peggy-M&theme=redical">
 </p>
 
 <p align = "center">
