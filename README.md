@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm peggy</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi, I'm _peggy_ <img src="https://i.pinimg.com/originals/10/94/23/109423f76102e5e8f703b70612aaa98b.gif" width="60px" align="middle" />
+## In short,  _technophiles_  who are passionate about everything!
+
+<h3 align="center">A fledgling program ape</h3>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Peggy-M&show_icons=true&theme=tokyonight&line_height=27">
