@@ -19,9 +19,11 @@
   <a href="https://space.bilibili.com"><img src="https://img.shields.io/badge/bilibili-%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-critical" alt="哔哩哔哩" /></a>
   <a href="https://bbs.huaweicloud.com/community/usersnew"><img src="https://img.shields.io/badge/%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%A4%BE%E5%8C%BA-%E6%B5%B7%E6%8B%A5-ff69b4" alt="%E5%8D%8E%E4%B8%BA%E4%BA%91%E7%A4%BE%E5%8C%BA-%E6%B5%B7%E6%8B%A5-ff69b4" /></a>
   <a href="https://blog.csdn.net/qq_33827423?type=blog"><img src="https://img.shields.io/badge/CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" alt="CSDN-%E6%91%B8%E9%B1%BC%E7%A4%BE%E5%8C%BA-yellow" /></a>
-  <a href="https://github.com/Peggy-M"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-black.svg" alt="GitHub" /></a>
+  <a href="https://github.com/Peggy-M"><img src="https://img.shields.io/badge/GitHub-%E5%AD%98%E5%82%A8%E5%BA%93-green.svg" alt="GitHub" /></a>
 </p>
 
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Peggy-M&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
+
+![Metrics](https://metrics.lecoq.io/?template=classic&isocalendar=1&reactions=1&achievements=1&screenshot=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&reactions=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&screenshot=false&screenshot.title=Screenshot&screenshot.url=https%3A%2F%2Fpeggy-note.oss-cn-hangzhou.aliyuncs.com%2Fimages%2F3453.png&screenshot.selector=body&screenshot.mode=image&screenshot.viewport=%7B%0A%20%20%22width%22%3A%201280%2C%0A%20%20%22height%22%3A%201280%0A%7D%0A&screenshot.wait=0&screenshot.background=true&config.timezone=Asia%2FShanghai)
