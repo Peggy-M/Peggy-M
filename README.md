@@ -27,7 +27,7 @@
 <img alt="Bootstrap"src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
 </p>
 
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Peggy-M)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align = "center">
 <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Peggy-M&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
