@@ -1,4 +1,8 @@
 <p align = "center">
+ <img src="https://cn.widgetstore.net/view/index.html?q=5a69cbba6343e96e008b8d577a5b4815.2f5712796423e9e6000e36307b5de71d">
+</p>
+
+<p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Peggy-M&show_icons=true&theme=tokyonight&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Peggy-M&theme=radical">
 </p>
@@ -26,13 +30,9 @@
 </p>
 
 
- 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Peggy-M&theme=redical">
-</p>
 
 <p align = "center">
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=wanghao221&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Peggy-M&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
 
 
