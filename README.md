@@ -1,6 +1,3 @@
-<p align = "center">
- <img src="https://cn.widgetstore.net/view/index.html?q=5a69cbba6343e96e008b8d577a5b4815.2f5712796423e9e6000e36307b5de71d">
-</p>
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Peggy-M&show_icons=true&theme=tokyonight&line_height=27">
